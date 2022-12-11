@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RMICalculadora.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RMICalculadora.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/InterfaceCalculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceCalculadora.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ServidorRMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServidorRMI.java" afterDir="false" />
     </list>
@@ -54,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670796174456</updated>
-      <workItem from="1670796177140" duration="2371000" />
+      <workItem from="1670796177140" duration="3667000" />
     </task>
     <servers />
   </component>
