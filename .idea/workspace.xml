@@ -7,6 +7,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RMICalculadora.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RMICalculadora.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfaceCalculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceCalculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServidorRMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServidorRMI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670796174456</updated>
-      <workItem from="1670796177140" duration="1998000" />
+      <workItem from="1670796177140" duration="2371000" />
     </task>
     <servers />
   </component>

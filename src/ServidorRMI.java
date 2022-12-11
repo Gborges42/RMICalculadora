@@ -8,7 +8,7 @@ public class ServidorRMI {
     public static void main(String[] args){
         try {
             InterfaceCalculadora calculadora = new Calculadora();
-            String hostNome = "rmi://localhost/Calculadora"
+            String hostNome = "rmi://localhost/Calculadora";
 
             System.out.println("Registrando o objeto no RMIRegistry");
             LocateRegistry.createRegistry(1099);
